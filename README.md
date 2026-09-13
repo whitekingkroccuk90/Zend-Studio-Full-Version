@@ -240,4 +240,4 @@ This repository serves as the official landing page for Zend Studio. The softwar
 **Get the most recent version of Zend Studio today!**
 
 ---
-**Last updated:** 2026-09-13 16:03:52 UTC
+**Last updated:** 2026-09-13 19:16:47 UTC
